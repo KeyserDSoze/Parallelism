@@ -13,6 +13,7 @@ namespace Parallelism
         {
             var x = Normal.Instance;
             var y = BreakStop.Instance;
+            var z = PLinq.Instance;
         }
     }
 }
