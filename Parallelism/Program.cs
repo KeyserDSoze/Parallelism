@@ -14,6 +14,8 @@ namespace Parallelism
             var x = Normal.Instance;
             var y = BreakStop.Instance;
             var z = PLinq.Instance;
+            var w = PLinqConfiguration.Instance;
+            var u = CancellationToken.Instance;
         }
     }
 }
