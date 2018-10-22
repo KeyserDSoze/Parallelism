@@ -9,6 +9,7 @@ namespace Parallelism.Code
 {
     public class CancellationToken
     {
+        //http://reedcopsey.com/2010/02/17/parallelism-in-net-part-10-cancellation-in-plinq-and-the-parallel-class/
         public static CancellationToken Instance
         {
             get
