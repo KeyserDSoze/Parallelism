@@ -16,6 +16,8 @@ namespace Parallelism
             var z = PLinq.Instance;
             var w = PLinqConfiguration.Instance;
             var u = CancellationToken.Instance;
+            var t = TaskClass.Instance;
+            Console.ReadLine();
         }
     }
 }

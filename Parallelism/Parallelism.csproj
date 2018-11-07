@@ -49,6 +49,7 @@
     <Compile Include="Code\BreakStop.cs" />
     <Compile Include="Code\PLinq.cs" />
     <Compile Include="Code\PLinqConfiguration.cs" />
+    <Compile Include="Code\TaskClass.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
